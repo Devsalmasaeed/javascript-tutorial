@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#taskContainer {
+    background-color: rgb(180, 109, 109);
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    margin: auto;
+}
+h2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
