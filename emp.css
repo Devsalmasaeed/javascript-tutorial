@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#employeeContainer {
+    background-color: rgb(240, 211, 158);
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    margin: auto;
+}
+h2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
